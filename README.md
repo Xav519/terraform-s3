@@ -1,1 +1,1 @@
-"# Terraform-s3 *" 
+"# Terraform-s3 project" 
