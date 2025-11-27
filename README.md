@@ -1,3 +1,9 @@
+## Project Motivation
+
+I decided to undertake this project to gain hands-on experience with creating and managing AWS infrastructure using Terraform. This project allowed me to practice the full workflow—from setting up Terraform, configuring AWS resources, and applying best practices for security and versioning, to using Git and GitHub for version control.  
+
+The goal is to strengthen my practical skills and deepen my understanding of infrastructure as code and real-world cloud deployment tasks.
+
 # Terraform S3 Bucket Project
 
 This project demonstrates how to **create and manage an AWS S3 bucket using Terraform**. It also covers **setting up Git and GitHub for version control**, and applying best practices for S3 configuration including **versioning, server-side encryption (SSE-S3), and public access restrictions**.
