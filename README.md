@@ -1,6 +1,6 @@
 ## Project Motivation
 
-I decided to undertake this project to gain hands-on experience with creating and managing AWS infrastructure using Terraform. This project allowed me to practice the full workflow—from setting up Terraform, configuring AWS resources, and applying best practices for security and versioning, to using Git and GitHub for version control.  
+I decided to undertake this project to gain hands-on experience with creating and managing AWS infrastructure using Terraform. This project allowed me to practice the full workflow from setting up Terraform, configuring AWS resources, and applying best practices for security and versioning, to using Git and GitHub for version control.  
 
 The goal is to strengthen my practical skills and deepen my understanding of infrastructure as code and real-world cloud deployment tasks.
 
