@@ -222,7 +222,8 @@ terraform destroy
 - **Amazon Web Services.** AWS S3 Documentation. [https://docs.aws.amazon.com/s3/index.html](https://docs.aws.amazon.com/s3/index.html)  
 - **Amazon Web Services.** AWS CLI Documentation. [https://docs.aws.amazon.com/cli/index.html](https://docs.aws.amazon.com/cli/index.html)  
 - **OpenAI.** ChatGPT (GPT-4/5 Model). [https://chat.openai.com](https://chat.openai.com)  
-- **Nextwork.** AWS DevOps & Terraform Project. [https://learn.nextwork.org/projects/aws-devops-terraform1](https://learn.nextwork.org/projects/aws-devops-terraform1)  
+- **Nextwork.** AWS DevOps & Terraform Project. [https://learn.nextwork.org/projects/aws-devops-terraform1](https://learn.nextwork.org/projects/aws-devops-terraform1)
+- **Terraform registry** AWS Provider. [https://registry.terraform.io/providers/hashicorp/aws/latest/docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 *— Xavier Dupuis*
 
